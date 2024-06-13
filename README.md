@@ -7,7 +7,7 @@
 
   I am a aspiring Data Scientist enthusiast with a strong foundation in Machine Learning, Statistical Analysis, Model Evaluation and Selection, Deep Learning, and Big Data Technologies. My passion lies in leveraging technology to solve real-world problems, and I have a diverse skill set that spans across various domains.
 
-  🛠️ **<strong style="font-size: 1.2em;">Skills</strong>**: Python, Docker, Django, Kubernetes, SAS, C++, JavaScript (Node.js), SQL, Power BI, DBMS (MySQL, PostgreSQL, SQL Server), Linux, Git/GitHub  
+  🛠️ **<strong style="font-size: 1.2em;">Skills</strong>**: Python, Django, Docker, C++, JavaScript(Node.js), SQL, Power BI, SAS, DBMS(MySQL, PostgreSQL, SQL Server), Linux(Arch, Fedora, Debian), Git  
 
   </div>
   <div style="width: 2%; border-left: 1px solid #000;"></div>
