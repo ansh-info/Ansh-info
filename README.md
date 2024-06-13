@@ -28,6 +28,20 @@
   - **Vim Editor**: Vim is my primary editor, and I appreciate its powerful capabilities. 📝
   - **Tmux**: I use and love Tmux for session management. 💻
   - **Power User**: Experienced in making the most out of terminal utilities and workflows.
+  - **Operating System**: Proficient in MacOS and Linux for robust and flexible development environments.
+  - **Terminal**: I enjoy the power and efficiency of terminal-based workflows.
+  - **iTerm2**: Use iTerm2 for its advanced features and customization capabilities.
+  - **Shell (zsh)**: Prefer zsh for its user-friendly features and extensive plugin support.
+  - **Neovim**: Started with Neovim for its powerful plugin system and modern enhancements over Vim.
+  - **Lazyvim**: Leveraging Lazyvim for an optimized and streamlined Neovim setup.
+  - **LSP**: Utilize Language Server Protocol (LSP) for enhanced coding assistance and productivity.
+  - **Markdown**: Frequently use Markdown for documentation and note-taking due to its simplicity and versatility.
+  - **Telescope**: Use Telescope in Neovim for efficient fuzzy finding and file searching.
+  - **Lazygit**: Enjoy Lazygit for an intuitive and fast Git interface within the terminal.
+  - **Neo-tree**: Manage project files efficiently with Neo-tree in Neovim.
+  - **Window Manager (Amethyst)**: Use Amethyst on MacOS for managing workspaces and desktops efficiently.
+  - **Zettelkasten (Neovim)**: Adopted Zettelkasten method for knowledge management using Obsidian and Neovim.
+  - **powerlevel10k**: Customize zsh with powerlevel10k for a sleek and informative prompt.
 
   </div>
 </div>
