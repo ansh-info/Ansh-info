@@ -58,13 +58,6 @@
   - **Tmux**: I use and love Tmux for session management. 💻
   - **Power User**: Experienced in making the most out of terminal utilities and workflows.
 
-  <strong style="font-size: 1.2em;">🌱 Community Service</strong>
-
-  - Active volunteer with Sewa Nidhi Trust, organizing blood donation camps, supporting COVID-19 relief efforts, and promoting women's empowerment.
-
-  <strong style="font-size: 1.2em;">🗣️ Languages</strong>
-  <strong style="font-size: 1.2em;">🔗 Let's Connect!</strong>
-
   </div>
 </div>
 
