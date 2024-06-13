@@ -4,7 +4,7 @@
   <div style="width: 48%;">
 
   🌍 <strong style="font-size: 1.2em;">Location</strong>: Heidelberg, Germany  
-  🎓 <strong style="font-size: 1.2em;">Education</strong>: M.Sc. Applied Data Science and Analytics, SRH Hochschule Heidelberg | B.Tech in Computer Science and Engineering, Quantum University  
+  🎓 <strong style="font-size: 1.2em;">Education</strong>: M.Sc. Applied Data Science and Analytics, SRH Hochschule Heidelberg  
   🛠️ <strong style="font-size: 1.2em;">Skills</strong>: Python, Docker, Django, Kubernetes, SAS, C++, JavaScript (Node.js), SQL, Power BI, DBMS (MySQL, PostgreSQL, SQL Server), Linux, Git/GitHub  
 
   <strong style="font-size: 1.2em;">👨‍💻 About Me</strong>
