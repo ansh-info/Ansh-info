@@ -2,13 +2,13 @@
 
 🌍 **Location**: Heidelberg, Germany  
 🎓 **Education**: M.Sc. Applied Data Science and Analytics, SRH Hochschule Heidelberg | B.Tech in Computer Science and Engineering, Quantum University  
-🛠️ **Skills**: Python, Docker, Django, Kubernetes, Git, SAS, C++, JavaScript (Node.js), SQL, Power BI, DBMS (MySQL, PostgreSQL, SQL Server), Linux, Git/GitHub  
+🛠️ **Skills**: Python, Docker, Django, Kubernetes, SAS, C++, JavaScript (Node.js), SQL, Power BI, DBMS (MySQL, PostgreSQL, SQL Server), Linux, Git/GitHub  
 
 ---
 
 #### 👨‍💻 About Me
 
-I am a data enthusiast and software developer with a strong foundation in data science, web development, and database management. My passion lies in leveraging technology to solve real-world problems, and I have a diverse skill set that spans across various domains.
+I am a Data enthusiast and Software Developer with a strong foundation in data science, web development, and database management. My passion lies in leveraging technology to solve real-world problems, and I have a diverse skill set that spans across various domains.
 
 #### 📈 Experience
 
@@ -38,6 +38,21 @@ I am a data enthusiast and software developer with a strong foundation in data s
   - Implemented real-time object detection using Convolutional Neural Networks.
   - Integrated UV radiation sensors and ultrasonic distance sensors for enhanced user safety.
 
+#### 💡 Machine Learning Expertise
+
+- **Experienced in Machine Learning with Python and R**:
+  - Proficient in various classification algorithms such as Decision Trees, Random Forest, Support Vector Machines, k-Nearest Neighbors, and Logistic Regression.
+  - Skilled in regression algorithms including Linear Regression, Polynomial Regression, Ridge Regression, and Lasso Regression.
+  - Expertise in implementing and tuning machine learning models for optimal performance.
+
+#### 💻 Power User Skills
+
+- **Unix Enthusiast**: I love Unix and enjoy working from the terminal.
+- **Window Tiling Manager**: Passionate user of window tiling managers for efficient workspace management.
+- **Vim Editor**: Vim is my primary editor, and I appreciate its powerful capabilities. 📝
+- **Tmux**: I use and love Tmux for session management. 💻
+- **Power User**: Experienced in making the most out of terminal utilities and workflows.
+
 #### 🌱 Community Service
 
 - Active volunteer with Sewa Nidhi Trust, organizing blood donation camps, supporting COVID-19 relief efforts, and promoting women's empowerment.
@@ -55,3 +70,4 @@ I am a data enthusiast and software developer with a strong foundation in data s
 - **GitHub**: [AnshKumar](https://github.com/AnshKumar)
 
 ---
+
