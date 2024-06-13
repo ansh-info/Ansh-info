@@ -7,7 +7,7 @@
 
   **<strong style="font-size: 1.2em;">👨‍💻 About Me</strong>**
 
-  I am a data enthusiast and software developer with a strong foundation in data science, web development, and database management. My passion lies in leveraging technology to solve real-world problems, and I have a diverse skill set that spans across various domains.
+  I am a aspiring Data Scientist enthusiast with a strong foundation in Machine Learning, Statistical Analysis, Model Evaluation and Selection, Deep Learning, and Big Data Technologies. My passion lies in leveraging technology to solve real-world problems, and I have a diverse skill set that spans across various domains.
 
   </div>
   <div style="width: 2%; border-left: 1px solid #000;"></div>
