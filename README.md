@@ -63,16 +63,7 @@
   - Active volunteer with Sewa Nidhi Trust, organizing blood donation camps, supporting COVID-19 relief efforts, and promoting women's empowerment.
 
   <strong style="font-size: 1.2em;">🗣️ Languages</strong>
-
-  - **English**: Proficient (C1)
-  - **Hindi**: Native
-  - **German**: Basic (A1)
-
   <strong style="font-size: 1.2em;">🔗 Let's Connect!</strong>
-
-  - **Email**: [anshkumar.info@gmail.com](mailto:anshkumar.info@gmail.com)
-  - **LinkedIn**: [Ansh Kumar](https://www.linkedin.com/in/anshkumar/)
-  - **GitHub**: [AnshKumar](https://github.com/AnshKumar)
 
   </div>
 </div>
