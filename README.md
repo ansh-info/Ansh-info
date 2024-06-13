@@ -2,7 +2,7 @@
 
 🌍 **Location**: Heidelberg, Germany  
 🎓 **Education**: M.Sc. Applied Data Science and Analytics, SRH Hochschule Heidelberg | B.Tech in Computer Science and Engineering, Quantum University  
-🛠️ **Skills**: Python, Docker, Django, Kubernetes, SAS, C++, JavaScript (Node.js), SQL, Power BI, DBMS (MySQL, PostgreSQL, SQL Server), Linux, Git/GitHub  
+🛠️ **Skills**: Python, Docker, Django, Kubernetes, C++, JavaScript (Node.js), SQL, Power BI, SAS, Data Structures, DBMS(MySQL, PostgreSQL, SQL Server), Linux(Arch Linux, Debian, Fedora), Git  
 
 ---
 
@@ -34,7 +34,7 @@ I am a Data enthusiast and Software Developer with a strong foundation in data s
   - Developed a robust backend with Python and Django, ensuring scalability and efficiency.
   - Designed dynamic front-end interfaces using HTML, CSS, and JavaScript.
 
-- **Smart Stick for Visually Impaired**
+- **Smart Stick for Visually Impaired(Patented)**
   - Implemented real-time object detection using Convolutional Neural Networks.
   - Integrated UV radiation sensors and ultrasonic distance sensors for enhanced user safety.
 
