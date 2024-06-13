@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td><strong>Unix Enthusiast</strong>: I love Unix and enjoy working from the terminal.</td>
+    <td><strong>Unix Enthusiast</strong>: I love Unix and enjoy the power and efficiency of terminal based workflows.</td>
     <td><strong>Neovim</strong>: Started with Neovim for its powerful plugin system and modern enhancements over Vim.</td>
   </tr>
   <tr>
@@ -35,16 +35,12 @@
     <td><strong>LSP</strong>: Utilize Language Server Protocol (LSP) for enhanced coding assistance and productivity.</td>
   </tr>
   <tr>
-    <td><strong>Tmux</strong>: I use and love Tmux for session management.</td>
-    <td><strong>ObsidianMarkdown</strong>: Frequently use Markdown for documentation and note-taking due to its simplicity and versatility.</td>
-  </tr>
-  <tr>
     <td><strong>Telescope</strong>: Use Telescope in Neovim for efficient fuzzy finding and file searching.</td>
-    <td><strong>Terminal</strong>: I enjoy the power and efficiency of terminal-based workflows.</td>
+    <td><strong>Obsidian Markdown</strong>: Frequently use Markdown for documentation and note-taking due to its simplicity and versatility.</td>
   </tr>
   <tr>
     <td><strong>powerlevel10k</strong>: Customize zsh with powerlevel10k for a sleek and informative prompt.</td>
-    <td><strong>Zettelkasten (Neovim)</strong>: Adopted Zettelkasten method for knowledge management using Obsidian and Neovim.</td>
+    <td><strong>Zettelkasten(Neovim)</strong>: Adopted Zettelkasten method for knowledge management using Obsidian and Neovim.</td>
   </tr>
 </table>
 
