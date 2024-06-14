@@ -10,9 +10,6 @@
   🛠️ **<strong style="font-size: 1.2em;">Skills</strong>**: Python, Django, Docker, C++, JavaScript(Node.js), SQL, Power BI, SAS, DBMS(MySQL, PostgreSQL, SQL Server), Linux(Arch, Fedora, Debian), Git  
 
   </div>
-  <div style="width: 2%; border-left: 1px solid #000;"></div>
-  <div style="width: 48%;">
-  </div>
 </div>
 
 **<strong style="font-size: 1.2em;">💻 Power User Skills</strong>**
