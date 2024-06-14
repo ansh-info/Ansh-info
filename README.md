@@ -12,14 +12,6 @@
   </div>
   <div style="width: 2%; border-left: 1px solid #000;"></div>
   <div style="width: 48%;">
-
-  **<strong style="font-size: 1.2em;">💡 Machine Learning Expertise</strong>**
-
-  - **Experienced in Machine Learning with Python and R**:
-    - Proficient in various classification algorithms such as Decision Trees, Random Forest, Support Vector Machines, k-Nearest Neighbors, and Logistic Regression.
-    - Skilled in regression algorithms including Linear Regression, Polynomial Regression, Ridge Regression, and Lasso Regression.
-    - Expertise in implementing and tuning machine learning models for optimal performance.
-
   </div>
 </div>
 
