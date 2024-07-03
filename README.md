@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
+<div>
+  <div>
 I am an aspiring Data Scientist with a strong foundation in Machine Learning, Statistical Analysis, Model Evaluation and Selection, Deep Learning, and Big Data Technologies. My passion lies in leveraging technology to solve real-world problems, and I have a diverse skill set that spans across various domains.
   </div>
 </div>
