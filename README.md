@@ -5,7 +5,7 @@ I am an aspiring Data Scientist with a strong foundation in Machine Learning, St
 </div>
 
 <br>
-<strong style="font-size: 1.22em;">💻 Power User Skills</strong>
+<strong style="font-size: 1.2em;">💻 Power User Skills</strong>
 
 <table>
   <tr>
