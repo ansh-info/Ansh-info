@@ -24,6 +24,7 @@
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
 <div align="center">
-<img src="images/Ansh_Kumar.png" title="Schrodinger's Cat" width="500"/>
+<img src="images/Wavepacket.gif" title="Wave Fucntion" width="500"/>
 </div>
 </div>
+
